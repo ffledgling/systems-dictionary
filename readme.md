@@ -23,9 +23,17 @@ Also known as memory barrier
 Minor Pagefault
 ---------------
 
+Mutex
+-----
+
 Reentrant Function
 ------------------
+
+Semaphore
+---------
 
 TLB Shootdown
 -------------
 
+QSpinLock
+---------

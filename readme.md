@@ -59,7 +59,7 @@ co-exists with regular application memory in RAM transparently, the operating
 system uses unsed poritions of the main memory for the page cache. It's used to
 speed up access to data/pages "on disk".
 
-reference: ![IO Stack in the Linux Kernel](https://upload.wikimedia.org/wikipedia/commons/3/30/IO_stack_of_the_Linux_kernel.svg)
+visual reference: [IO Stack in the Linux Kernel](https://upload.wikimedia.org/wikipedia/commons/3/30/IO_stack_of_the_Linux_kernel.svg)
 
 
 PMU (Performance Monitoring Unit)
